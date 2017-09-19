@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2417-6970
+
+ Directory of C:\Users\Acer\Desktop\jenkins
+
+09/19/2017  04:31 PM    <DIR>          .
+09/19/2017  04:31 PM    <DIR>          ..
+09/19/2017  03:58 PM               675 jenkins.class
+09/19/2017  03:50 PM               205 jenkins.java
+09/19/2017  04:31 PM                 0 test1.txt
+               3 File(s)            880 bytes
+               2 Dir(s)  24,005,259,264 bytes free
